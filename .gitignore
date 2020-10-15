@@ -215,4 +215,7 @@ pip-selfcheck.json
 # My ignores
 data
 model/*
+unknown_faces/*
 ignored
+
+*.mp4
